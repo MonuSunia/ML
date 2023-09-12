@@ -6,4 +6,4 @@ A scatter plot is created to visualize the relationship between area and price. 
 
 A linear regression model is instantiated, trained on the data in 'new_df' with 'y' as the target variable. Finally, the code predicts the price for an area value of 20 using the trained model. This code essentially automates the process of predicting product prices based on area using a linear regression model.
 <br>
-Author: Monu Sunia
+Author: Monu Sunia IITGN
